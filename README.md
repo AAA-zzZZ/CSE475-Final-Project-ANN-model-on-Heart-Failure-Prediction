@@ -55,4 +55,39 @@ Notebook: CSE 475 Final Project Milestone 2: Model Development
 
 ### 3. Model Evaluation and final report
 
+Notebook: CSE 475 Final Project Milestone 3: Final Project Report
+* Evaluate the performance of the final model with a set of standard metrics
+* Analyze the learning outcome of the model based on the visualization graphs
+* Compare with alternative model and interpret the model's clinical relevance
+* Discuss the limitations of the model and potential area for improvements
+* Structure a detailed deployment plan for the model with measures and monitoring options
+* Walk through the ethical considerations such as regulations to the model
+
+---
+
+## Methods
+
+* Model Type: Artificial Neural Network (ANN)
+* Problem Type: Binary Classification
+* Evaluation Metrics: Accuracy, Precision, Recall,
+* F1-Score, ROC-AUC, Confusion Matrix
+* Tools: Python, Jupyter Notebook, common data science and deep learning libraries
+
+## Key takeaways
+* Emphasizes interpretability, evaluation rigor, and ethical responsibility
+* Highlights the gap between model performance and real-world clinical deployment
+* 
+
+## Limitation
+
+* Model performance is dependent on dataset size Future data collection is required upon the imporvements and refinements for the model
+* Results may not generalize across populations or clinical settings
+
+
+## Disclaimer
+
+This model is for educational-research purpose only. It is not a medical device and must not be used in clinical diagnosis or treatment without proper regulatory approval or clinical validation.
+
+
+
 
